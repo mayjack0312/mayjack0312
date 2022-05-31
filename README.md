@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mayjack0312&logoColor=white)](https://github.com/mayjack0312) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=)]() [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/may.jack.35325/)](https://www.facebook.com/may.jack.35325) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/LMY76839294)](https://twitter.com/LMY76839294)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mayjack0312&logoColor=white)](https://github.com/mayjack0312) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=)]() [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/may.jack.35325/)](https://www.facebook.com/may.jack.35325) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/LMY76839294)](https://twitter.com/LMY76839294)  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rolandduro440@gmail.com)](mailto:rolandduro440@gmail.com)
 
 I am Harsh Kumar Khatri 😃. I come from China and am currently in College 🏫.I love to explore and learn about new things.
