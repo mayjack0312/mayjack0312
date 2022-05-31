@@ -7,9 +7,11 @@
 
 Hi, I am LMY 😃. I come from China and am currently in College 🏫.  
 I love to explore and learn about new things.
+
 ## 👯 Communities
 * I am currently a freelance developer.
 * If you are interested in my project or this industry, you are welcome to communicate with me.
+
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, Javascript**
