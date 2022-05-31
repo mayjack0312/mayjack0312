@@ -34,8 +34,8 @@ Talk to me about
 <br>
 <!-- 统计卡片start -->
 <div align="center">
-  <img height="128px" src="https://github-readme-stats.vercel.app/api?username=mayjack0312&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayjack0312&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> </div>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=mayjack0312&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayjack0312&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> </div>
 <!-- metrics -->
 <div align="center"> <img src=https://metrics.lecoq.io/mayjack0312?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai> </div>
 <br>
