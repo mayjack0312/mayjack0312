@@ -37,7 +37,7 @@ Talk to me about
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayjack0312&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <br>
 <!-- GitHub 活动统计图 -->
-<div align="center"> <img src=https://activity-graph.herokuapp.com/graph?username=mayjack0312&theme=react-dark> </div>
+<div align="center"> <img src=https://github-readme-activity-graph.cyclic.app/graph?username=mayjack0312&theme=react-dark> </div>
 <br>
 <!-- 统计卡片start -->
 <div align="center">
