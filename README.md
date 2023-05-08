@@ -1,7 +1,5 @@
 # <font face="微软雅黑">**Hello there, fellow**</font> <font face="宋体"><𝚌𝚘𝚍𝚎𝚛𝚜/>!</font> 👋
 
-<audio src="https://github.com/mayjack0312/mayjack0312/blob/main/auto.mp3" preload="auto" loop> 你的浏览器不支持 audio 标签。 </audio>
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mayjack0312&logoColor=white)](https://github.com/mayjack0312) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/may.jack.35325/)](https://www.facebook.com/may.jack.35325)  
