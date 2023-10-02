@@ -29,6 +29,12 @@ Talk to me about
 - 🔔 Communicate with me.
 - ⚡ Discover and explore new knowledge together.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br>
 <!-- Github 计数 -->
 <div align="center"> <img src=https://count.getloli.com/get/@:mayjack0312)> </div>
@@ -37,7 +43,7 @@ Talk to me about
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayjack0312&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <br>
 <!-- GitHub 活动统计图 -->
-<div align="center"> <img src=https://github-readme-activity-graph.cyclic.app/graph?username=mayjack0312&theme=react-dark> </div>
+<div align="center"> <img src=https://github-readme-activity-graph.vercel.app/graph?username=mayjack0312&theme=react-dark> </div>
 <br>
 <!-- 统计卡片start -->
 <div align="center">
