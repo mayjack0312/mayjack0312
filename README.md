@@ -55,5 +55,3 @@ Talk to me about
 <!-- metrics -->
 <div align="center"> <img src=https://metrics.lecoq.io/mayjack0312?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai> </div>
 <br>
-<!-- Github visitor统计 -->
-<div align="center"> <img src=https://visitor-badge.glitch.me/badge?page_id=mayjack0312.mayjack0312> </div>
