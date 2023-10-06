@@ -52,6 +52,3 @@ Talk to me about
 <br>
 <!-- Github连续打卡end -->
 <div align="center"> <img src=https://github-readme-streak-stats.herokuapp.com/?user=mayjack0312&theme=dark> </div>
-<!-- metrics -->
-<div align="center"> <img src=https://metrics.lecoq.io/mayjack0312?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai> </div>
-<br>
