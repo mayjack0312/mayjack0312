@@ -9,7 +9,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mayjack0312&logoColor=white)](https://github.com/mayjack0312) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/may.jack.35325/)](https://www.facebook.com/may.jack.35325)  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rolandduro440@gmail.com)](mailto:rolandduro440@gmail.com)
 
-Hi, I am **'May Jack'** 😃. I come from China and am currently in College 🏫.  
+Hi, I am **'MayJack'** 😃. I come from China and am currently in College 🏫.  
 I love to explore and learn about new things.
 
 ## 👯 Communities
