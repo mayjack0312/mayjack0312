@@ -40,7 +40,7 @@ Talk to me about
 | **Fork-Mini** | Altium Designer、Linux、Vscode、C、Kernel、U-Boot、Python | ★★★★☆ |
 | **LED_cube** | Altium Designer、Vscode、C、Arduino | ★★★☆☆ |
 | **My-Blog** | MarkDown、Daily Development Notes | ★★★☆☆ |
-| **WenJuanXing** | Python、HTML、Selenium、PyCharm | ★★★☆☆ |
+| **WJX** | Python、HTML、Selenium、PyCharm | ★★★☆☆ |
 | **Python-File** | Python、Vscode | ★★☆☆☆ |
 <br>
 
