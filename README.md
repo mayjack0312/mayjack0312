@@ -39,9 +39,9 @@ Talk to me about
 | **HA_BOX** | Allegro Cadence、Linux、Vscode、C、Kernel、U-Boot、OS-Systeme、Docker | ★★★★★ |
 | **Fork-Mini** | Altium Designer、Linux、Vscode、C、Kernel、U-Boot、Python | ★★★★☆ |
 | **LED_cube** | Altium Designer、Vscode、C、Arduino | ★★★☆☆ |
-| **My-Blog** | MarkDown、Daily Development Notes | ★★★☆☆ |
-| **WJX** | Python、HTML、Selenium、PyCharm | ★★★☆☆ |
-| **Python-File** | Python、Vscode | ★★☆☆☆ |
+| **My-Blog** | Vscode、MarkDown、*Daily Development Notes* | ★★★☆☆ |
+| **WJX** | PyCharm、Python、Selenium、HTML | ★★★☆☆ |
+| **Python-File** | Vscode、Python | ★★☆☆☆ |
 <br>
 
 <!-- Github 奖杯🏆start -->
