@@ -32,9 +32,8 @@ Talk to me about
 - 📫 Submit new bugs at any time.
 - 🔔 Communicate with me.
 - ⚡ Discover and explore new knowledge together.
-<br>
 
-<!-- My Key Projects -->
+## My Key Projects
 | Project | Technology stack | Difficulty level
 |---------|------------------|-----------------|
 | **HA_BOX** | Allegro Cadence、Linux、Vscode、C、Kernel | ★★★★★ |
