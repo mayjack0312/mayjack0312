@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=mayjack0312&logoColor=white)](https://github.com/mayjack0312) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/may.jack.35325/)](https://www.facebook.com/may.jack.35325)  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rolandduro440@gmail.com)](mailto:rolandduro440@gmail.com)
 
-Hi, I am **'LMY'** 😃. I come from China and am currently in College 🏫.  
+Hi, I am **'May Jack'** 😃. I come from China and am currently in College 🏫.  
 I love to explore and learn about new things.
 
 ## 👯 Communities
@@ -29,26 +29,27 @@ Talk to me about
 - 🔔 Communicate with me.
 - ⚡ Discover and explore new knowledge together.
 
+<br>
+<!-- Github 奖杯🏆start -->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayjack0312&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
+<br>
+
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<br>
 
-<br>
-<!-- Github 计数 -->
-<div align="center"> <img src=https://count.getloli.com/get/@:mayjack0312)> </div>
-<br>
-<!-- Github 奖杯🏆start -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayjack0312&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
-<br>
-<!-- GitHub 活动统计图 -->
-<div align="center"> <img src=https://github-readme-activity-graph.vercel.app/graph?username=mayjack0312&theme=react-dark> </div>
 <br>
 <!-- 统计卡片start -->
 <div align="center">
   <img height="133px" src="https://github-readme-stats.vercel.app/api?username=mayjack0312&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayjack0312&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"> </div>
 <br>
-<!-- Github连续打卡end -->
-<div align="center"> <img src=https://github-readme-streak-stats.herokuapp.com/?user=mayjack0312&theme=dark> </div>
+
+<br>
+<!-- Github 计数 -->
+<div align="center"> <img src=https://count.getloli.com/get/@:mayjack0312)> </div>
+<br>
