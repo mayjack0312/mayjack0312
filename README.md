@@ -34,7 +34,6 @@ Talk to me about
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mayjack0312&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
 <br>
 
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/mayjack0312/mayjack0312/blob/output/github-contribution-grid-snake.svg" />
