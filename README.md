@@ -36,9 +36,9 @@ Talk to me about
 ## My Key Projects
 | Project | Technology stack | Difficulty level
 |---------|------------------|-----------------|
-| **HA_BOX** | Allegro Cadence、Linux、Vscode、C、Kernel | ★★★★★ |
-| **Fork-Mini** | Altium Designer、Linux、Vscode、C、Python | ★★★★☆ |
-| **LED_cube** | Altium Designer、Vscode、C | ★★★☆☆ |
+| **HA_BOX** | Allegro Cadence、Linux、Vscode、C、Kernel、U-Boot | ★★★★★ |
+| **Fork-Mini** | Altium Designer、Linux、Vscode、C、Lernel、U-Boot、Python | ★★★★☆ |
+| **LED_cube** | Altium Designer、Vscode、C、Arduino | ★★★☆☆ |
 | **My-Blog** | MarkDown、Daily Development Notes | ★★★☆☆ |
 | **WenJuanXing** | Python、HTML、Selenium、PyCharm | ★★★☆☆ |
 | **Python-File** | Python、Vscode | ★★☆☆☆ |
